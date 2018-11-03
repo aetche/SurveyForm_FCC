@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Open+Sans');
+
+body{
+  background: #A1D2CE;
+}
+
+.container{
+  width: 1000px;
+  padding: 100px;
+  background: white;
+}
+p{
+  display: inline-block;
+}
+h1, h3{
+  font-family: 'Caveat', cursive;
+  font-size: 70px;
+  text-align: center;
+  color: #4C6085;
+}
+h3{
+  font-size: 40px;
+  padding: 20px 0;
+  border-bottom: 3px solid #a1d2ce52;
+  margin-bottom: 24px;
+}
+p, label, input, textarea, select{
+  font-family: 'Open Sans', sans-serif;
+}
+p{
+  padding: 30px;
+  text-align: center;
+}
+
+.form-group{
+ padding: 10px 0; 
+}
+#neutered {
+  margin: 10px;
+}
